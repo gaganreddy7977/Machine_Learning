@@ -1,0 +1,19 @@
+From: it@edukron.com
+To: Dear User
+Subject: VPN Setup Instructions
+
+Dear User,
+
+Thank you for reaching out to the IT support team. To set up the VPN on your laptop, please follow these steps:
+
+1. Click on the "Start" menu and select "Settings"
+2. Go to "Network & Internet" and select the "VPN" tab
+3. Click on "Add a VPN connection"
+4. Enter the server address and connection details provided in your IT welcome kit
+5. Save the settings and click "Connect" using your network credentials
+
+If you need further assistance or require the specific server details, please don’t hesitate to contact us.
+
+Best regards,
+IT Support Team
+it@edukron.com

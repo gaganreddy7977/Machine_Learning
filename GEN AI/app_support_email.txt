@@ -1,0 +1,43 @@
+**From:** it@edukron.com  
+**To:** Dear User  
+**Subject:** Troubleshooting Steps for Your Edukron Account Login Issue
+
+Hello,
+
+Thank you for reaching out to the IT Support Team. We understand that you are experiencing an error while attempting to log in to your account. 
+
+To resolve this issue, please follow these step-by-step troubleshooting instructions:
+
+**Step 1: Verify Your Credentials**
+Ensure that you are entering your full Edukron email address and that your **Caps Lock** is turned off. Sometimes, extra spaces at the beginning or end of the password field can cause a login failure.
+
+**Step 2: Clear Your Browser Cache and Cookies**
+Stored data in your browser can sometimes interfere with the login process.
+*   Go to your browser settings.
+*   Find "Privacy and Security."
+*   Select **Clear Browsing Data** (ensure "Cookies" and "Cached images and files" are selected).
+*   Restart your browser and try logging in again.
+
+**Step 3: Use an Incognito/Private Window**
+To rule out any browser extensions or plugins causing the error:
+*   Open a new **Incognito** (Chrome) or **Private** (Firefox/Safari) window.
+*   Navigate to the login page and attempt to sign in.
+
+**Step 4: Perform a Password Reset**
+If the error message indicates "Invalid Credentials," please reset your password:
+*   Click on the **"Forgot Password?"** link on the login page.
+*   Enter your registered email address to receive a reset link.
+*   Follow the instructions in the email to create a new password and try logging in again.
+
+**Step 5: Check Your Internet Connection/VPN**
+Ensure you have a stable internet connection. If you are working remotely, please try disconnecting and reconnecting your VPN, as this can sometimes refresh your authentication token.
+
+---
+
+**Next Steps:**
+If you have completed all the steps above and are still unable to access your account, please reply to this email with a **screenshot of the specific error message** you are seeing. This will help us investigate further.
+
+Best regards,
+
+**IT Support Team**  
+Edukron | it@edukron.com
